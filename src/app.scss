@@ -1,15 +1,21 @@
+$brand_red: #EB4420;
+$brand_blue: #19837A;
+$brand_purple: #802565;
+$brand_green: #9ED52E;
+
+
 body {
-  background-color: lightgrey;
+  background-color: $brand_purple;
 }
 
 h2 {
-  color: red;
+  color: $brand_red;
 }
 
 h3 {
-  color: blue;
+  color: $brand_blue;
 }
 
 p {
-  color: green;
+  color: $brand_green;
 }
